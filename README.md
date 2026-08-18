@@ -8,7 +8,7 @@ IoT-based driver fatigue detection system using MPU6050 and IR eye blink sensor 
 - IR Eye Blink Sensor
 - Buzzer
 
-## FeaturesABSTRACT
+## Features
 - Real-time fatigue detection
 - Eye blink monitoring
 - Head movement detection
